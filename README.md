@@ -21,10 +21,12 @@ Bem-vindo à documentação do OMR Studio. Este README resume as funções do pr
 ## Documentação por Etapa
 
 - **Dados e Contratos Supabase** → `docs/dados.md`
+- **Guia de Estilo Visual** → `docs/estilo-visual.md`
 - **Simulador Test-Drive** (chat IA) → `docs/test-drive.md`
 - **Integração com Evolution API** → `docs/conexoes-evolution.md`
 - **Chat de Suporte (Ajuda)** → `docs/ajuda.md`
 - **Reset do Banco / Schema** → `db/reset.sql`
+- **Protótipo de Layout Web** → `ui/layout.html`
 
 ## Segurança e Riscos
 
@@ -42,6 +44,10 @@ Bem-vindo à documentação do OMR Studio. Este README resume as funções do pr
 - Test-Drive responde em ~3s (`trace.elapsed_ms`).
 - Conexões atualizam QR/estado, desconectam e persistem configs.
 - Deploy no cPanel sem falha de MIME.
+
+## Recursos Visuais
+
+- **Mockups da Interface** → `assets/images/mockup-1.png`, `assets/images/mockup-2.png`, `assets/images/mockup-3.png`
 
 ## Proximos Passos
 
